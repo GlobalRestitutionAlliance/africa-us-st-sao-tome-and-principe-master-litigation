@@ -1,0 +1,27 @@
+{
+  "url": "https://treaties.un.org/",
+  "final_url": "https://treaties.un.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 164609,
+  "sha256": "0cd641f117a249b7ebb7b75e8bcc49a235be68f62d0af20f272b630c200fec0e",
+  "captured_at": "2026-11-21T21:48:00.069273Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Sao Tome And Principe",
+  "iso": "ST",
+  "title": "UN Treaty Collection",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 21:50:39 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "164609",
+    "Connection": "close",
+    "Set-Cookie": "ASP.NET_SessionId=hfbq5yorlaof03hhl32hmca0; path=/; secure; HttpOnly; SameSite=Lax",
+    "Cache-Control": "private",
+    "x-frame-options": "SAMEORIGIN",
+    "X-AspNet-Version": "4.0.30319",
+    "Request-Context": "appId=cid-v1:34aefb44-12a4-4541-955a-72cc5cdf4863",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "X-Powered-By": "ASP.NET",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}
