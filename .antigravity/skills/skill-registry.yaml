@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: sao-tome-and-principean-restitution-roadmap-and-qsf-trust-execution
-  name: Sao Tome and Principean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/sao-tome-and-principean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_st_001
+    name: Sao Tome And Principe Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_002
+    name: Sao Tome And Principe Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_003
+    name: Sao Tome And Principe Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_004
+    name: Sao Tome And Principe Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_005
+    name: Sao Tome And Principe Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_006
+    name: Sao Tome And Principe Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_007
+    name: Sao Tome And Principe Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_008
+    name: Sao Tome And Principe Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_009
+    name: Sao Tome And Principe Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_010
+    name: Sao Tome And Principe Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_011
+    name: Sao Tome And Principe Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_012
+    name: Sao Tome And Principe Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_013
+    name: Sao Tome And Principe Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_014
+    name: Sao Tome And Principe Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_015
+    name: Sao Tome And Principe Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_016
+    name: Sao Tome And Principe Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_017
+    name: Sao Tome And Principe Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_018
+    name: Sao Tome And Principe Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_019
+    name: Sao Tome And Principe Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_020
+    name: Sao Tome And Principe Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_021
+    name: Sao Tome And Principe Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_022
+    name: Sao Tome And Principe Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_023
+    name: Sao Tome And Principe Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_024
+    name: Sao Tome And Principe Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_025
+    name: Sao Tome And Principe Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_026
+    name: Sao Tome And Principe Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_027
+    name: Sao Tome And Principe Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_028
+    name: Sao Tome And Principe Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_029
+    name: Sao Tome And Principe Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_030
+    name: Sao Tome And Principe Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_031
+    name: Sao Tome And Principe Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_032
+    name: Sao Tome And Principe Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_033
+    name: Sao Tome And Principe Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_034
+    name: Sao Tome And Principe Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_035
+    name: Sao Tome And Principe Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_036
+    name: Sao Tome And Principe Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_037
+    name: Sao Tome And Principe Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_038
+    name: Sao Tome And Principe Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_039
+    name: Sao Tome And Principe Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_040
+    name: Sao Tome And Principe Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_041
+    name: Sao Tome And Principe Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_042
+    name: Sao Tome And Principe Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_043
+    name: Sao Tome And Principe Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_044
+    name: Sao Tome And Principe Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_045
+    name: Sao Tome And Principe Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_046
+    name: Sao Tome And Principe Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_047
+    name: Sao Tome And Principe Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_048
+    name: Sao Tome And Principe Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_049
+    name: Sao Tome And Principe Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_050
+    name: Sao Tome And Principe Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_051
+    name: Sao Tome And Principe Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_052
+    name: Sao Tome And Principe Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_053
+    name: Sao Tome And Principe Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_054
+    name: Sao Tome And Principe Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_055
+    name: Sao Tome And Principe Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_056
+    name: Sao Tome And Principe Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_057
+    name: Sao Tome And Principe Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_058
+    name: Sao Tome And Principe Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_059
+    name: Sao Tome And Principe Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_060
+    name: Sao Tome And Principe Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_061
+    name: Sao Tome And Principe Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_062
+    name: Sao Tome And Principe Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_063
+    name: Sao Tome And Principe Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_064
+    name: Sao Tome And Principe Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_065
+    name: Sao Tome And Principe Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_066
+    name: Sao Tome And Principe Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_067
+    name: Sao Tome And Principe Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_068
+    name: Sao Tome And Principe Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_069
+    name: Sao Tome And Principe Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_070
+    name: Sao Tome And Principe Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_071
+    name: Sao Tome And Principe Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_072
+    name: Sao Tome And Principe Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_073
+    name: Sao Tome And Principe Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_074
+    name: Sao Tome And Principe Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_075
+    name: Sao Tome And Principe Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_076
+    name: Sao Tome And Principe Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_077
+    name: Sao Tome And Principe Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_078
+    name: Sao Tome And Principe Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_079
+    name: Sao Tome And Principe Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_080
+    name: Sao Tome And Principe Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_081
+    name: Sao Tome And Principe Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_082
+    name: Sao Tome And Principe Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_083
+    name: Sao Tome And Principe Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_084
+    name: Sao Tome And Principe Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_085
+    name: Sao Tome And Principe Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_086
+    name: Sao Tome And Principe Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_087
+    name: Sao Tome And Principe Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_088
+    name: Sao Tome And Principe Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_089
+    name: Sao Tome And Principe Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_090
+    name: Sao Tome And Principe Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_091
+    name: Sao Tome And Principe Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_092
+    name: Sao Tome And Principe Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_093
+    name: Sao Tome And Principe Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_094
+    name: Sao Tome And Principe Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_095
+    name: Sao Tome And Principe Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_096
+    name: Sao Tome And Principe Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_097
+    name: Sao Tome And Principe Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_098
+    name: Sao Tome And Principe Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_099
+    name: Sao Tome And Principe Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_100
+    name: Sao Tome And Principe Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_101
+    name: Sao Tome And Principe Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_102
+    name: Sao Tome And Principe Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_103
+    name: Sao Tome And Principe Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_104
+    name: Sao Tome And Principe Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_105
+    name: Sao Tome And Principe Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_106
+    name: Sao Tome And Principe Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_107
+    name: Sao Tome And Principe Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_108
+    name: Sao Tome And Principe Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_109
+    name: Sao Tome And Principe Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_110
+    name: Sao Tome And Principe Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_111
+    name: Sao Tome And Principe Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_112
+    name: Sao Tome And Principe Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_113
+    name: Sao Tome And Principe Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_114
+    name: Sao Tome And Principe Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_115
+    name: Sao Tome And Principe Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_116
+    name: Sao Tome And Principe Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_117
+    name: Sao Tome And Principe Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_118
+    name: Sao Tome And Principe Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_119
+    name: Sao Tome And Principe Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_120
+    name: Sao Tome And Principe Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_121
+    name: Sao Tome And Principe Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_122
+    name: Sao Tome And Principe Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_123
+    name: Sao Tome And Principe Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_124
+    name: Sao Tome And Principe Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_125
+    name: Sao Tome And Principe Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_126
+    name: Sao Tome And Principe Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_127
+    name: Sao Tome And Principe Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_128
+    name: Sao Tome And Principe Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_129
+    name: Sao Tome And Principe Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_130
+    name: Sao Tome And Principe Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_131
+    name: Sao Tome And Principe Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_132
+    name: Sao Tome And Principe Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_133
+    name: Sao Tome And Principe Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_134
+    name: Sao Tome And Principe Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_135
+    name: Sao Tome And Principe Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_136
+    name: Sao Tome And Principe Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_137
+    name: Sao Tome And Principe Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_138
+    name: Sao Tome And Principe Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_139
+    name: Sao Tome And Principe Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_140
+    name: Sao Tome And Principe Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_141
+    name: Sao Tome And Principe Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_142
+    name: Sao Tome And Principe Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_143
+    name: Sao Tome And Principe Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_144
+    name: Sao Tome And Principe Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_145
+    name: Sao Tome And Principe Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_146
+    name: Sao Tome And Principe Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_147
+    name: Sao Tome And Principe Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_148
+    name: Sao Tome And Principe Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_149
+    name: Sao Tome And Principe Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_150
+    name: Sao Tome And Principe Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_151
+    name: Sao Tome And Principe Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_152
+    name: Sao Tome And Principe Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_153
+    name: Sao Tome And Principe Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_154
+    name: Sao Tome And Principe Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_155
+    name: Sao Tome And Principe Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_156
+    name: Sao Tome And Principe Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_157
+    name: Sao Tome And Principe Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_158
+    name: Sao Tome And Principe Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_159
+    name: Sao Tome And Principe Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_160
+    name: Sao Tome And Principe Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_161
+    name: Sao Tome And Principe Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_162
+    name: Sao Tome And Principe Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_163
+    name: Sao Tome And Principe Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_164
+    name: Sao Tome And Principe Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_165
+    name: Sao Tome And Principe Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_166
+    name: Sao Tome And Principe Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_167
+    name: Sao Tome And Principe Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_168
+    name: Sao Tome And Principe Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_169
+    name: Sao Tome And Principe Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_170
+    name: Sao Tome And Principe Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_171
+    name: Sao Tome And Principe Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_172
+    name: Sao Tome And Principe Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_173
+    name: Sao Tome And Principe Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_174
+    name: Sao Tome And Principe Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_175
+    name: Sao Tome And Principe Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_176
+    name: Sao Tome And Principe Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_177
+    name: Sao Tome And Principe Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_178
+    name: Sao Tome And Principe Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_179
+    name: Sao Tome And Principe Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_180
+    name: Sao Tome And Principe Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_181
+    name: Sao Tome And Principe Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_182
+    name: Sao Tome And Principe Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_183
+    name: Sao Tome And Principe Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_184
+    name: Sao Tome And Principe Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_185
+    name: Sao Tome And Principe Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_186
+    name: Sao Tome And Principe Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_187
+    name: Sao Tome And Principe Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_188
+    name: Sao Tome And Principe Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_189
+    name: Sao Tome And Principe Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_190
+    name: Sao Tome And Principe Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_191
+    name: Sao Tome And Principe Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_192
+    name: Sao Tome And Principe Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_193
+    name: Sao Tome And Principe Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_194
+    name: Sao Tome And Principe Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_195
+    name: Sao Tome And Principe Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_196
+    name: Sao Tome And Principe Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_197
+    name: Sao Tome And Principe Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_198
+    name: Sao Tome And Principe Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_199
+    name: Sao Tome And Principe Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_200
+    name: Sao Tome And Principe Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_201
+    name: Sao Tome And Principe Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_202
+    name: Sao Tome And Principe Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_203
+    name: Sao Tome And Principe Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_204
+    name: Sao Tome And Principe Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_205
+    name: Sao Tome And Principe Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_206
+    name: Sao Tome And Principe Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_207
+    name: Sao Tome And Principe Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_208
+    name: Sao Tome And Principe Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_209
+    name: Sao Tome And Principe Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_210
+    name: Sao Tome And Principe Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_211
+    name: Sao Tome And Principe Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_212
+    name: Sao Tome And Principe Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_213
+    name: Sao Tome And Principe Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_214
+    name: Sao Tome And Principe Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_215
+    name: Sao Tome And Principe Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_216
+    name: Sao Tome And Principe Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_217
+    name: Sao Tome And Principe Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_218
+    name: Sao Tome And Principe Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_219
+    name: Sao Tome And Principe Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_220
+    name: Sao Tome And Principe Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_221
+    name: Sao Tome And Principe Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_222
+    name: Sao Tome And Principe Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_223
+    name: Sao Tome And Principe Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_224
+    name: Sao Tome And Principe Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_225
+    name: Sao Tome And Principe Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_226
+    name: Sao Tome And Principe Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_227
+    name: Sao Tome And Principe Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_228
+    name: Sao Tome And Principe Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_229
+    name: Sao Tome And Principe Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_230
+    name: Sao Tome And Principe Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_231
+    name: Sao Tome And Principe Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_232
+    name: Sao Tome And Principe Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_233
+    name: Sao Tome And Principe Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_234
+    name: Sao Tome And Principe Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_235
+    name: Sao Tome And Principe Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_236
+    name: Sao Tome And Principe Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_237
+    name: Sao Tome And Principe Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_238
+    name: Sao Tome And Principe Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_239
+    name: Sao Tome And Principe Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_240
+    name: Sao Tome And Principe Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_241
+    name: Sao Tome And Principe Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_242
+    name: Sao Tome And Principe Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_243
+    name: Sao Tome And Principe Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_244
+    name: Sao Tome And Principe Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_245
+    name: Sao Tome And Principe Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_246
+    name: Sao Tome And Principe Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_247
+    name: Sao Tome And Principe Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_248
+    name: Sao Tome And Principe Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_249
+    name: Sao Tome And Principe Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_250
+    name: Sao Tome And Principe Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_251
+    name: Sao Tome And Principe Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_st_252
+    name: Sao Tome And Principe Skill 252
+    status: ACTIVE_SCAFFOLD

@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-sao-tome-and-principe-canal-and-intervention-historian
-  name: Sao Tome and Principe Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-sao-tome-and-principe-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_st_001
+    name: Sao Tome And Principe Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_002
+    name: Sao Tome And Principe Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_003
+    name: Sao Tome And Principe Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_004
+    name: Sao Tome And Principe Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_005
+    name: Sao Tome And Principe Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_006
+    name: Sao Tome And Principe Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_007
+    name: Sao Tome And Principe Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_008
+    name: Sao Tome And Principe Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_009
+    name: Sao Tome And Principe Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_010
+    name: Sao Tome And Principe Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_011
+    name: Sao Tome And Principe Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_012
+    name: Sao Tome And Principe Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_013
+    name: Sao Tome And Principe Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_014
+    name: Sao Tome And Principe Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_015
+    name: Sao Tome And Principe Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_016
+    name: Sao Tome And Principe Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_017
+    name: Sao Tome And Principe Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_018
+    name: Sao Tome And Principe Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_019
+    name: Sao Tome And Principe Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_020
+    name: Sao Tome And Principe Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_021
+    name: Sao Tome And Principe Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_022
+    name: Sao Tome And Principe Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_023
+    name: Sao Tome And Principe Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_024
+    name: Sao Tome And Principe Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_025
+    name: Sao Tome And Principe Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_026
+    name: Sao Tome And Principe Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_027
+    name: Sao Tome And Principe Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_028
+    name: Sao Tome And Principe Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_029
+    name: Sao Tome And Principe Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_030
+    name: Sao Tome And Principe Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_031
+    name: Sao Tome And Principe Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_032
+    name: Sao Tome And Principe Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_033
+    name: Sao Tome And Principe Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_034
+    name: Sao Tome And Principe Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_035
+    name: Sao Tome And Principe Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_036
+    name: Sao Tome And Principe Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_037
+    name: Sao Tome And Principe Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_038
+    name: Sao Tome And Principe Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_039
+    name: Sao Tome And Principe Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_040
+    name: Sao Tome And Principe Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_041
+    name: Sao Tome And Principe Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_042
+    name: Sao Tome And Principe Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_043
+    name: Sao Tome And Principe Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_044
+    name: Sao Tome And Principe Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_045
+    name: Sao Tome And Principe Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_046
+    name: Sao Tome And Principe Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_047
+    name: Sao Tome And Principe Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_048
+    name: Sao Tome And Principe Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_049
+    name: Sao Tome And Principe Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_050
+    name: Sao Tome And Principe Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_051
+    name: Sao Tome And Principe Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_052
+    name: Sao Tome And Principe Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_053
+    name: Sao Tome And Principe Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_054
+    name: Sao Tome And Principe Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_055
+    name: Sao Tome And Principe Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_056
+    name: Sao Tome And Principe Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_057
+    name: Sao Tome And Principe Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_058
+    name: Sao Tome And Principe Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_059
+    name: Sao Tome And Principe Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_060
+    name: Sao Tome And Principe Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_061
+    name: Sao Tome And Principe Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_062
+    name: Sao Tome And Principe Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_063
+    name: Sao Tome And Principe Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_064
+    name: Sao Tome And Principe Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_065
+    name: Sao Tome And Principe Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_066
+    name: Sao Tome And Principe Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_067
+    name: Sao Tome And Principe Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_068
+    name: Sao Tome And Principe Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_069
+    name: Sao Tome And Principe Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_070
+    name: Sao Tome And Principe Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_071
+    name: Sao Tome And Principe Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_072
+    name: Sao Tome And Principe Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_073
+    name: Sao Tome And Principe Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_074
+    name: Sao Tome And Principe Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_075
+    name: Sao Tome And Principe Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_076
+    name: Sao Tome And Principe Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_077
+    name: Sao Tome And Principe Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_078
+    name: Sao Tome And Principe Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_079
+    name: Sao Tome And Principe Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_080
+    name: Sao Tome And Principe Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_081
+    name: Sao Tome And Principe Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_082
+    name: Sao Tome And Principe Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_083
+    name: Sao Tome And Principe Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_084
+    name: Sao Tome And Principe Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_085
+    name: Sao Tome And Principe Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_086
+    name: Sao Tome And Principe Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_087
+    name: Sao Tome And Principe Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_088
+    name: Sao Tome And Principe Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_089
+    name: Sao Tome And Principe Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_090
+    name: Sao Tome And Principe Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_091
+    name: Sao Tome And Principe Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_092
+    name: Sao Tome And Principe Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_093
+    name: Sao Tome And Principe Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_094
+    name: Sao Tome And Principe Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_095
+    name: Sao Tome And Principe Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_096
+    name: Sao Tome And Principe Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_097
+    name: Sao Tome And Principe Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_098
+    name: Sao Tome And Principe Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_099
+    name: Sao Tome And Principe Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_100
+    name: Sao Tome And Principe Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_101
+    name: Sao Tome And Principe Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_102
+    name: Sao Tome And Principe Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_103
+    name: Sao Tome And Principe Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_104
+    name: Sao Tome And Principe Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_105
+    name: Sao Tome And Principe Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_106
+    name: Sao Tome And Principe Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_107
+    name: Sao Tome And Principe Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_108
+    name: Sao Tome And Principe Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_109
+    name: Sao Tome And Principe Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_110
+    name: Sao Tome And Principe Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_111
+    name: Sao Tome And Principe Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_112
+    name: Sao Tome And Principe Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_113
+    name: Sao Tome And Principe Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_114
+    name: Sao Tome And Principe Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_115
+    name: Sao Tome And Principe Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_116
+    name: Sao Tome And Principe Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_117
+    name: Sao Tome And Principe Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_118
+    name: Sao Tome And Principe Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_119
+    name: Sao Tome And Principe Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_120
+    name: Sao Tome And Principe Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_121
+    name: Sao Tome And Principe Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_122
+    name: Sao Tome And Principe Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_123
+    name: Sao Tome And Principe Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_124
+    name: Sao Tome And Principe Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_125
+    name: Sao Tome And Principe Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_126
+    name: Sao Tome And Principe Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_127
+    name: Sao Tome And Principe Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_128
+    name: Sao Tome And Principe Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_129
+    name: Sao Tome And Principe Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_130
+    name: Sao Tome And Principe Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_131
+    name: Sao Tome And Principe Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_132
+    name: Sao Tome And Principe Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_133
+    name: Sao Tome And Principe Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_134
+    name: Sao Tome And Principe Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_135
+    name: Sao Tome And Principe Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_136
+    name: Sao Tome And Principe Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_137
+    name: Sao Tome And Principe Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_138
+    name: Sao Tome And Principe Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_139
+    name: Sao Tome And Principe Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_140
+    name: Sao Tome And Principe Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_141
+    name: Sao Tome And Principe Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_142
+    name: Sao Tome And Principe Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_143
+    name: Sao Tome And Principe Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_144
+    name: Sao Tome And Principe Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_145
+    name: Sao Tome And Principe Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_146
+    name: Sao Tome And Principe Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_147
+    name: Sao Tome And Principe Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_148
+    name: Sao Tome And Principe Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_149
+    name: Sao Tome And Principe Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_150
+    name: Sao Tome And Principe Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_151
+    name: Sao Tome And Principe Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_152
+    name: Sao Tome And Principe Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_153
+    name: Sao Tome And Principe Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_154
+    name: Sao Tome And Principe Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_155
+    name: Sao Tome And Principe Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_156
+    name: Sao Tome And Principe Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_157
+    name: Sao Tome And Principe Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_158
+    name: Sao Tome And Principe Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_159
+    name: Sao Tome And Principe Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_160
+    name: Sao Tome And Principe Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_161
+    name: Sao Tome And Principe Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_162
+    name: Sao Tome And Principe Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_163
+    name: Sao Tome And Principe Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_164
+    name: Sao Tome And Principe Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_165
+    name: Sao Tome And Principe Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_166
+    name: Sao Tome And Principe Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_167
+    name: Sao Tome And Principe Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_168
+    name: Sao Tome And Principe Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_169
+    name: Sao Tome And Principe Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_st_170
+    name: Sao Tome And Principe Agent 170
+    status: ACTIVE_SCAFFOLD
