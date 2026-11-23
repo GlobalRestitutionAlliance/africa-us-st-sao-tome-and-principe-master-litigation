@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=sao+tome+principe+slavery+colonial",
+  "final_url": "https://www.loc.gov/item/?q=sao+tome+principe+slavery+colonial",
+  "title": "Library of Congress - Sao Tome and Principe",
+  "fetched_at": "2026-11-23T07:32:51.447415Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44591,
+  "sha256": "f4b07f48f1a752681455985fb5929eddac606277ef4c464089d62f5870a14f03",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

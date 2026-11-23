@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `81e9fb9c6cf5fb30...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://archive.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Internet_Archive.html` | `329de0d85f690421...` | PENDING_LEGAL_REVIEW
