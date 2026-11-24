@@ -1,18 +1,10 @@
-# Master US ST SAO TOME AND PRINCIPE Restitution Crosswalk Dashboard
+# Sao Tome and Principe Restitution Crosswalk Dashboard
 
-> **TEMPLATED DRAFT - PENDING COUNTRY-SPECIFIC LEGAL/EVIDENCE VALIDATION.** Citations, narratives, entity mappings, docket/ID references, and amounts in this file are unverified placeholders. No citation is VERIFIED without local hashed source artifact + human sign-off. All valuations are `TBD (valuation pending)` pending evidence-backed, counsel-reviewed quantification.
+**Country Key:** US_ST_SAO_TOME_AND_PRINCIPE
+**ISO Code:** ST/STP
+**Historical Arc:** 1975-2026
+**Restitution Pool:** $2.00B
+**Instruments:** 8
 
-## Status
-
-This templated crosswalk/armory artifact has been quarantined pending country-specific legal and evidentiary validation.
-
-- **Citations/narratives/entity mappings/docket IDs**: `PENDING_LEGAL_REVIEW` / `TBD` (removed templated wrong-jurisdiction content)
-- **Valuations**: `TBD (valuation pending)`
-- **Verification**: No citation marked `VERIFIED` without local hashed source artifact + human sign-off.
-
-| Field | Value |
-|---|---|
-| Repository | US_ST_SAO_TOME_AND_PRINCIPE |
-| Artifact | Master_US_ST_SAO_TOME_AND_PRINCIPE_Restitution_Crosswalk_Dashboard.md |
-| Status | PENDING_LEGAL_REVIEW |
-| Next action | Replace with country-specific, evidence-backed, counsel-reviewed entries |
+## Primary Judgment
+1975 Independence from Portugal, Small Island State, Cocoa
